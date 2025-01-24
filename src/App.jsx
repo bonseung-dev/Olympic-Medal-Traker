@@ -70,8 +70,8 @@ function App() {
           addCountry={addCountry}
           updateCountry={updateCountry}
           outputCountry={outputCountry}
-          sortCriteria={sortCriteria} // sortCriteria 전달
-          setSortCriteria={setSortCriteria} // setSortCriteria 전
+          sortCriteria={sortCriteria}
+          setSortCriteria={setSortCriteria}
         />
       </div>
       <h3 style={{ textAlign: "center" }}>추가된 국가 목록</h3>
